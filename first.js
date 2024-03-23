@@ -1,3 +1,3 @@
 const a = 10;
 const b = 20;
-console.log(a+b);
+console.log(`The sum is ${a+b}`);
